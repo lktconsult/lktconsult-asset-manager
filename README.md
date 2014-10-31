@@ -12,7 +12,7 @@ For example `Asset::scripts('frontend')` would result in `<script scr="public/js
 
 ## Installation
 
-1. Add `"modbase/asset-manager": "0.1.*"` to your `composer.json` file.
+1. Add `"reencedavid-ph/asset-manager": "dev-master"` to your `composer.json` file.
 2. Run `composer update`
 3. Add `'Modbase\AssetManager\AssetManagerServiceProvider'` to your service providers in `app/config/app.php`.
 
