@@ -1,0 +1,21 @@
+{
+    "name": "reence/asset-manager",
+    "description": "A very basic asset manager to be used in combination with versioned assets.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Reence David",
+            "email": "iamreencedavid@yahoo.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "~4.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Modbase\\AssetManager\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
