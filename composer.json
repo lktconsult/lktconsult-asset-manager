@@ -1,11 +1,11 @@
 {
-    "name": "reencedavid-ph/asset-manager",
+    "name": "lktconsult/asset-manager",
     "description": "A very basic asset manager to be used in combination with versioned assets.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Reence David",
-            "email": "iamreencedavid@yahoo.com"
+            "name": "LKT Consult",
+            "email": "server@lktconsult.com"
         }
     ],
     "require": {
